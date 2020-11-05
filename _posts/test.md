@@ -45,6 +45,11 @@ $ bundle -v
 Bundler version 2.1.4
 ```
 
+```mkdown
+import pandas as pd
+print (dsa)
+```
+
 - | 运行本地服务器
 
 &#8195;&#8195;第一次运行`serve`，需要执行初始化安装必要的`gem`库，并创建和启动本地服务器。然后打开浏览器，访问[http://localhost:4000](#http://localhost:4000) 就能开启预览模式。
