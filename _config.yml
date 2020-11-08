@@ -1,16 +1,12 @@
 # The Site Settings
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT licensed
 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Holsworson'site                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: recording the life.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -20,23 +16,23 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'holsworson.github.io'
 
-author: your_full_name                  # change to your full name
+author: kongjy                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: holsworson             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: None            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: kongjy                  # it will shows as the copyright owner in Footer
+  email: holsworson@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/holsworson       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -78,7 +74,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: light
+theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
 toc: true
